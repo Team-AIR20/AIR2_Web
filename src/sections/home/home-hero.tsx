@@ -205,7 +205,7 @@ export default function HomeHero() {
             repeat: Infinity,
           }}
         >
-          Minimal
+          AIR 2.0
         </StyledTextGradient>
       </m.div>
 
